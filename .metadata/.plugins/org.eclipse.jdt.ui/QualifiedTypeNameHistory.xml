@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+<fullyQualifiedTypeName name="com.sun.jna.platform.FileUtils"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="org.apache.log4j.LogManager"/>
+<fullyQualifiedTypeName name="org.apache.log4j.BasicConfigurator"/>
+<fullyQualifiedTypeName name="org.apache.log4j.PropertyConfigurator"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.DateUtil"/>
+</qualifiedTypeNameHistroy>
